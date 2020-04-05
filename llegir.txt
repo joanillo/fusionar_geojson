@@ -1,0 +1,29 @@
+https://ca.wikipedia.org/wiki/Divisi%C3%B3_territorial_de_Catalunya#Regions_i_vegueries
+
+Vegueries proposades per l'informe Roca (2001):
+https://ca.wikipedia.org/wiki/Divisi%C3%B3_territorial_de_Catalunya#/media/Fitxer:Vegueries_informe_Roca.svg
+
+https://ca.wikipedia.org/wiki/Informe_Roca
+
+Vegueries:
+Barcelona: Alt Penedès, Baix Llobregat, Baix Llobregat Nord, Barcelonès, Garraf, Maresme, Vallès Occidental i Vallès Oriental
+
+Camp de Tarragona: Alt Camp, Baix Camp, Baix Penedès, Conca de Barberà, Priorat i Tarragonès.
+
+Catalunya Central: Alta Segarra, Anoia, Bages, Berguedà, Cerdanya, Moianès, Osona i Solsonès.
+
+Girona: Alt Empordà, Baix Empordà, Garrotxa, Gironès, Pla de l'Estany, Ripollès, Selva.
+
+Ponent: Alta Ribagorça, Alt Urgell, Garrigues, Noguera, Pallars Jussà, Pallars Sobirà, Pla d'Urgell, Segarra, Segre Mitjà, Segrià, Urgell i Val d'Aran.
+
+Terres de l'Ebre: Baix Ebre, Montsià, Ribera d'Ebre i Terra Alta.
+
+======
+Procediment.
+A partir de comarques.js genero terres_ebre.js, i les altres.
+Ara es tractarà de combinar aquestes 4 comarques en una sola regió (vegueria)
+
+
+Anem a facilitar la feina al fusionador:
+hem d'ordenar les comarques correctament: Montsià, Baix Ebre, Terra Alta, Ribera d'Ebre.
+Aquest és l'ordre correcte si les coordenades van en sentit de les agulles del rellotge (les longituds han de ser en ordre creixent?).
